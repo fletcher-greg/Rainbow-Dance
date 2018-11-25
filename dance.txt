@@ -1,0 +1,7 @@
+step left 
+right
+then forward
+so 
+on and 
+so 
+forth
